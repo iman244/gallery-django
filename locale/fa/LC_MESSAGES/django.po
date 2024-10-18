@@ -1,0 +1,79 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-10-19 01:05+0330\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: .\about_page\apps.py:8
+msgid "about page"
+msgstr ""
+
+#: .\about_page\models.py:7 .\home_page\models.py:23 .\works_page\models.py:15
+msgid "image"
+msgstr ""
+
+#: .\about_page\models.py:8 .\home_page\models.py:8 .\works_page\models.py:7
+msgid "title"
+msgstr ""
+
+#: .\about_page\models.py:9
+msgid "content"
+msgstr ""
+
+#: .\about_page\models.py:10
+msgid "home page button text"
+msgstr ""
+
+#: .\home_page\apps.py:8
+msgid "home page"
+msgstr ""
+
+#: .\home_page\models.py:7
+msgid "cover"
+msgstr ""
+
+#: .\home_page\models.py:9
+msgid "description"
+msgstr ""
+
+#: .\home_page\models.py:11
+msgid "second description"
+msgstr ""
+
+#: .\home_page\models.py:13
+msgid "some works button text"
+msgstr ""
+
+#: .\home_page\models.py:15
+msgid "about works button text"
+msgstr ""
+
+#: .\home_page\models.py:22
+msgid "name"
+msgstr ""
+
+#: .\home_page\models.py:24
+msgid "your social media link"
+msgstr ""
+
+#: .\works_page\apps.py:8
+msgid "works page"
+msgstr ""
+
+#: .\works_page\models.py:14
+msgid "caption"
+msgstr ""
